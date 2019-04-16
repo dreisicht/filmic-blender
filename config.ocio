@@ -194,6 +194,11 @@ looks:
     name: False Colour
     process_space: Filmic Log Encoding
     transform: !<FileTransform> {src: Filmic_False_Colour.spi3d, interpolation: best}
+  
+  - !<Look>
+    name: Blender Guru's False Colour
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: blender-guru-false-colour.spi3d, interpolation: best}
 
   - !<Look>
     name: Very High Contrast

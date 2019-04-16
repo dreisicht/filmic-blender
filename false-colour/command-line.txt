@@ -1,0 +1,2 @@
+ociolutimage --generate --cubesize 65 --maxwidth 4225 --output ./blender-guru-base.exr
+ociolutimage --extract --cubesize 65 --maxwidth 4225 --input ./blender-guru-false-colour.exr --output blender-guru-false-colour.spi3d
