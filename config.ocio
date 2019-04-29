@@ -232,3 +232,919 @@ looks:
     name: Very Low Contrast
     process_space: Filmic Log Encoding
     transform: !<FileTransform> {src: Filmic_to_0-35_1-30.spi1d, interpolation: linear}
+
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_advantix_100.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_advantix_100.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_advantix_200.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_advantix_200.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_advantix_400.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_advantix_400.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfachrome_ct_precisa_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfachrome_ct_precisa_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfachrome_ct_precisa_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfachrome_ct_precisa_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfachrome_rsx2_050.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfachrome_rsx2_050.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfachrome_rsx2_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfachrome_rsx2_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfachrome_rsx2_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfachrome_rsx2_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_400.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_400.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_ii_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_ii_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_ii_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_ii_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_futura_ii_400.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_futura_ii_400.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_hdc_100_plus.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_hdc_100_plus.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_hdc_200_plus.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_hdc_200_plus.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_hdc_400_plus.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_hdc_400_plus.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_optima_ii_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_optima_ii_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_optima_ii_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_optima_ii_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_ultra_050.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_ultra_050.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_vista_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_vista_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_vista_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_vista_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_vista_400.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_vista_400.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\agfa_agfacolor_vista_800.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\agfa_agfacolor_vista_800.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\canon_optura_981111.slrr.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\canon_optura_981111.slrr.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\canon_optura_981111.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\canon_optura_981111.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\canon_optura_981113.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\canon_optura_981113.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\canon_optura_981114.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\canon_optura_981114.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\eastman_double_x_neg_4min.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\eastman_double_x_neg_4min.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\eastman_double_x_neg_5min.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\eastman_double_x_neg_5min.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\eastman_double_x_neg_6min.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\eastman_double_x_neg_6min.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\eastman_double_x_neg_12min.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\eastman_double_x_neg_12min.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\fujifilm_f-125.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\fujifilm_f-125.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\fujifilm_f-250.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\fujifilm_f-250.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\fujifilm_f-400.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\fujifilm_f-400.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\fujifilm_fci.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\fujifilm_fci.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\fujifilm_fp2900z.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\fujifilm_fp2900z.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3151.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3151.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3152.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3152.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3153.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3153.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3154.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3154.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3155.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3155.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_dscs_3156.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_dscs_3156.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_64.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_64.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_64t.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_64t.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_100_plus.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_100_plus.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_100.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_100.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_320t.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_320t.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_400x.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_400x.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_ektachrome_e100s.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_ektachrome_e100s.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_gold_100.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_gold_100.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_gold_200.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_gold_200.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kaf-2001.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kaf-2001.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kaf-3000.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kaf-3000.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kai-0311.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kai-0311.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kai-0372.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kai-0372.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kai-1010.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kai-1010.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kodachrome_25.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kodachrome_25.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kodachrome_64.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kodachrome_64.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_kodachrome_200.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_kodachrome_200.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_max_zoom_800.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_max_zoom_800.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_100t.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_100t.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_160nc.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_160nc.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_160vc.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_160vc.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_400nc.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_400nc.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_400vc.spi1d
+    # process_space: Filmic Log Encoding
+    # # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_400vc.spi1d, interpolation: linear}
+    
+  # - !<Look>
+    # name: -B_2.79\film_response\kodak_portra_800.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\film_response\kodak_portra_800.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\aces_to_xyz.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\aces_to_xyz.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\adx_adx10_to_cdd.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\adx_adx10_to_cdd.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\adx_cdd_to_cid.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\adx_cdd_to_cid.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\adx_cid_to_rle.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\adx_cid_to_rle.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\adx_exp_to_aces.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\adx_exp_to_aces.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\colorworks_filmlg_to_p3.3dl
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\colorworks_filmlg_to_p3.3dl, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\dci_xyz.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\dci_xyz.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\lg10.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\lg10.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rec709_to_aces.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rec709_to_aces.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rec709.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rec709.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rrt_ut33_dcdm.spi3d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rrt_ut33_dcdm.spi3d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rrt_ut33_p3dci.spi3d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rrt_ut33_p3dci.spi3d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rrt_ut33_rec709.spi3d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rrt_ut33_rec709.spi3d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\rrt_ut33_sRGB.spi3d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\rrt_ut33_sRGB.spi3d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\spi_ocio_srgb_test.spi3d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\spi_ocio_srgb_test.spi3d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\srgb_inv.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\srgb_inv.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\srgb_to_xyz.spimtx
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\srgb_to_xyz.spimtx, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\srgb.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\srgb.spi1d, interpolation: linear}
+    # 
+  # - !<Look>
+    # name: -B_2.79\vd16.spi1d
+    # process_space: Filmic Log Encoding
+    # transform: !<FileTransform> {src: -B_2.79\vd16.spi1d, interpolation: linear}
+    # 
+  - !<Look>
+    name: A_gen_log\C-8120-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\C-8120-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\C-9730-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\C-9730-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\F-6800-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\F-6800-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\F-8700-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\F-8700-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\F-8700-V2-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\F-8700-V2-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\H-9110-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\H-9110-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Hackmanite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Hackmanite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Herderite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Herderite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Heulandite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Heulandite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Hiddenite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Hiddenite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Hilutite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Hilutite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Howlite_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Howlite_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\Hypersthene_-_Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\Hypersthene_-_Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\W-8370-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\W-8370-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\X-6500-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\X-6500-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_gen_log\X-9400-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_gen_log\X-9400-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\C-8120-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\C-8120-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\C-9730-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\C-9730-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\F-6800-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\F-6800-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\F-8700-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\F-8700-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\F-8700-V2-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\F-8700-V2-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\H-9110-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\H-9110-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\W-8370-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\W-8370-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\X-6500-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\X-6500-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_std\X-9400-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_std\X-9400-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\C-8120-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\C-8120-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\C-9730-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\C-9730-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\F-6800-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\F-6800-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\F-8700-V2-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\F-8700-V2-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\F-8700-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\F-8700-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\H-9110-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\H-9110-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\W-8370-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\W-8370-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\X-6500-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\X-6500-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: A_v_log\X-9400-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: A_v_log\X-9400-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-V2-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-V2-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-V2-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-V2-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-V2-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-V2-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\F-8700-VLOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\F-8700-VLOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Arapaho_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Arapaho_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Arapaho_-_Standard.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Arapaho_-_Standard.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Arapaho_-_V-Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Arapaho_-_V-Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Aspen_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Aspen_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Aspen_-_Standard.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Aspen_-_Standard.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Aspen_-_V-Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Aspen_-_V-Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Humble_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Humble_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Humble_-_Standard.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Humble_-_Standard.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Humble_-_V-Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Humble_-_V-Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Sedona_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Sedona_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Sedona_-_Standard.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Sedona_-_Standard.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\IWLTBAP_Sedona_-_V-Log.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\IWLTBAP_Sedona_-_V-Log.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\VisualLUT.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\VisualLUT.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\VitalLUT.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\VitalLUT.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\W-ARAPAHO-33-LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\W-ARAPAHO-33-LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: bonus\W-ARAPAHO-33-STD.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: bonus\W-ARAPAHO-33-STD.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\2Strip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\2Strip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\3Strip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\3Strip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\Fuji3513_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\Fuji3513_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\Fuji3513_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\Fuji3513_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\Kodak2393_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\Kodak2393_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\Kodak2393_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\Kodak2393_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3510_log2hd_ConstLclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3510_log2hd_ConstLclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3510_log2hd_ConstLmap.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3510_log2hd_ConstLmap.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3510_log2hd_CUSPclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3510_log2hd_CUSPclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3513_log2hd_ConstLclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3513_log2hd_ConstLclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3513_log2hd_ConstLmap.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3513_log2hd_ConstLmap.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Fuji3513_log2hd_CUSPclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Fuji3513_log2hd_CUSPclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2383_log2hd_ConstLclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2383_log2hd_ConstLclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2383_log2hd_ConstLmap.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2383_log2hd_ConstLmap.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2383_log2hd_CUSPclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2383_log2hd_CUSPclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2393_log2hd_ConstLclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2393_log2hd_ConstLclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2393_log2hd_ConstLmap.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2393_log2hd_ConstLmap.cube, interpolation: linear}
+    
+  - !<Look>
+    name: film_looks\LC3DL_Kodak2393_log2hd_CUSPclip.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: film_looks\LC3DL_Kodak2393_log2hd_CUSPclip.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hackmanite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hackmanite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hackmanite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hackmanite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Herderite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Herderite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Herderite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Herderite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Heulandite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Heulandite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Heulandite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Heulandite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hiddenite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hiddenite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hiddenite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hiddenite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hilutite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hilutite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hilutite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hilutite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Howlite_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Howlite_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Howlite_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Howlite_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hypersthene_-_IPP2.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hypersthene_-_IPP2.cube, interpolation: linear}
+    
+  - !<Look>
+    name: h_luts\Hypersthene_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: h_luts\Hypersthene_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\70s.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\70s.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Drive_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Drive_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Grit.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Grit.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\M31_-_LOG.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\M31_-_LOG.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\M31_-_Rec.709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\M31_-_Rec.709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Mad_Max_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Mad_Max_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Moonrise_Kingdom_V1_-_Rec709.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Moonrise_Kingdom_V1_-_Rec709.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Summer.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Summer.cube, interpolation: linear}
+    
+  - !<Look>
+    name: looks\Thriller.cube
+    process_space: Filmic Log Encoding
+    transform: !<FileTransform> {src: looks\Thriller.cube, interpolation: linear}
+    
